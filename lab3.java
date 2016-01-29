@@ -9,8 +9,8 @@ public class lab3{
 		n=n+1;
 		p+= d/2;
 		d= 10-p;
-		
 		System.out.println(p);
+		System.out.println(n);
 
 	}
 
